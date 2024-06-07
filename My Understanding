@@ -1,0 +1,19 @@
+Machine Learning is divided into:
+2.i) Supervised Learning:
+        In supervised learning the data for the input and the desired output is provided. The input data is called features, and the
+output data is called the target or label. At first machine is taught using the training data (both input and output) is provided.
+Then the test data (both input and output) is provided. The test output data is then checked with the output data found in the machine.
+Thus the accuracy of the model is found.
+
+2.ii) Unsupervised Learning:
+
+
+The most popular ways of learning machine learning are:
+1. Regression problem:
+    Here the difference between the actual output and the machine output are tried to be minimized, so that the best fit is found. Which
+is then used to predict the outcome for similar prbolems. It is used to predict problems that has continuous values. 
+
+    Thre are Linear Regression.
+
+2. Classification problem:
+    Here specific classes are defined. And machine is taught to classify or categorize the data.
